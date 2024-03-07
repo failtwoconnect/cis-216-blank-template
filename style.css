@@ -16,6 +16,6 @@ h1{
     width: 100px;
     height: 100px;
     margin: 10px;
-    border: 1px solid #000;
+    border: 1px solid teal;
     border-radius: 5px;
 }
