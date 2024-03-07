@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: black;
 }
 
 
@@ -8,7 +9,7 @@ h1{
     border: 1px solid #ff0000;
     border-radius: 5px;
     display: flex;
-    background-color: white;
+    background-color: teal;
 
 }
 
@@ -16,6 +17,5 @@ h1{
     width: 100px;
     height: 100px;
     margin: 10px;
-    border: 1px solid teal;
     border-radius: 5px;
 }
