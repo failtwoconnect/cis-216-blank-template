@@ -1,3 +1,15 @@
-*{
+h1{
+    text-align: center;
+}
 
+#pictures{
+    padding: 20px;
+}
+
+#pictures img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
 }
