@@ -2,8 +2,14 @@ h1{
     text-align: center;
 }
 
+
 #pictures{
     padding: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    display: flex;
+    background-color: white;
+
 }
 
 #pictures img{
